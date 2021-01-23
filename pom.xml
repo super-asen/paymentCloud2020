@@ -60,6 +60,13 @@
                 <artifactId>mysql-connector-java</artifactId>
                 <version>${mysql.version}</version>
             </dependency>
+
+            <dependency>
+                <groupId>com.itxiaobai.common</groupId>
+                <artifactId>cloud-provider-common</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
+            </dependency>
+
             <dependency>
                 <groupId>com.alibaba</groupId>
                 <artifactId>druid</artifactId>
